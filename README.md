@@ -171,8 +171,8 @@ samples\phish1.eml
 ```
 ## Visual Proof
 
-### CLI Phishing Triage Output & Automated Pytest Suite
-![CLI output scoring legit1.eml as LOW and phish1.eml as HIGH & pytest verbose output showing unit tests passing](assets\pytest-output-results.png)
+### Markdown
+![pytest verbose output showing unit tests passing](assets\pytest-output-results.png)
 
 ---
 
