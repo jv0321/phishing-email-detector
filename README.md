@@ -172,7 +172,7 @@ samples\phish1.eml
 ## Visual Proof
 
 ### Markdown
-![pytest verbose output showing unit tests passing](assets\pytest-output-results.png)
+![pytest verbose output showing unit tests passing](assets/pytest-output-results.png.png)
 
 ---
 
