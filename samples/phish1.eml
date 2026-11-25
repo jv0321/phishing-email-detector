@@ -1,0 +1,12 @@
+From: "PayPal Support" <service@paypa1.com>
+Reply-To: helpdesk@mail-recovery.example
+To: you@example.com
+Subject: URGENT: verify your account
+Authentication-Results: mx.example.com; spf=fail; dkim=none; dmarc=fail
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>Your account has been suspended. Act now and confirm your identity.</p>
+<a href="http://192.0.2.10/login">http://www.paypal.com/secure</a>
+</body></html>

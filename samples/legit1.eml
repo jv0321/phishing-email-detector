@@ -1,0 +1,8 @@
+From: Team Lead <lead@example.com>
+To: you@example.com
+Subject: Lunch on Friday?
+Authentication-Results: mx.example.com; spf=pass; dkim=pass; dmarc=pass
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Want to grab lunch on Friday? Let me know.
